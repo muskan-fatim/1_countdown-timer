@@ -1,5 +1,4 @@
 'use client'
-import { Html } from 'next/document';
 import styles from './page.module.css';
 import { useState, useRef } from 'react';
 
